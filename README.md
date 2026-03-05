@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sharan 👋
 
-<!--
-**sharantejamedikar/sharantejamedikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Artificial Intelligence – University of Surrey  
+💻 Machine Learning | NLP | Python  
+🚀 Interested in AI systems, LLMs and data-driven applications
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an AI graduate student with experience building machine learning and data-driven applications. I enjoy developing solutions that combine strong technical foundations with real-world impact.
+
+Previously, I led the development of a government-adopted digital complaint management system used by 60+ operational users.
+
+## Tech Stack
+
+Python  
+PyTorch  
+TensorFlow  
+Scikit-learn  
+Pandas  
+NumPy  
+NLP  
+SQL  
+Git  
+
+## Current Interests
+
+- Large Language Models (LLMs)
+- AI system evaluation
+- Applied Machine Learning
+- Data-driven product development
+
+## Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/sharanteja

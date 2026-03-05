@@ -24,6 +24,7 @@ Git
 
 ## Current Interests
 
+- Generative AI
 - Large Language Models (LLMs)
 - AI system evaluation
 - Applied Machine Learning
